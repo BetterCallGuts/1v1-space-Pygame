@@ -3,11 +3,11 @@
 
 controls for red
 #     W
-# A   S    D
+#  A   S    D
   
 controls for red
 #     I
-# J   k    L
+#  J   k    L
 
 
 ![space-ship-game](https://github.com/BetterCallGuts/Fluppy_bird_pygame/assets/122576822/74df1936-5d2a-47ae-bd8c-93f5a07df189)
