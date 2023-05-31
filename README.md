@@ -2,11 +2,11 @@
 
 
 controls for red
-#      W
+#     W
 # A   S    D
   
 controls for red
-#      I
+#     I
 # J   k    L
 
 
